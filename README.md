@@ -1,6 +1,9 @@
 ## Important sources:
 - [RawGit](https://rawgit.com/)
-- [FontAwesome (FA)](http://fontawesome.io/icon/)
+- [Bootstrap (BS)] (https://getbootstrap.com/)
+- [FontAwesome (FA)](https://fontawesome.com/)
+- [FontAwesome Animated] (https://l-lin.github.io/font-awesome-animation/)
+- [Lipis Flags SVG] (http://flag-icon-css.lip.is/)
 
 
 ## To do:
