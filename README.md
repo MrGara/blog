@@ -4,6 +4,7 @@
 - [FontAwesome (FA)](https://fontawesome.com/) ~ [Changelog](https://github.com/FortAwesome/Font-Awesome/blob/master/CHANGELOG.md)
 - [FontAwesome Animated](https://l-lin.github.io/font-awesome-animation/)
 - [Lipis Flags SVG](http://flag-icon-css.lip.is/)
+- [Code Prettify] (https://github.com/google/code-prettify)
 
 
 ## To do:
